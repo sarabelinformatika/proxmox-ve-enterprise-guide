@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="proxmox-ve-enterprise-guide.jpg" alt="Proxmox VE Enterprise Guide">
+  <img src="./images/proxmox-ve-enterprise-guide.jpg" alt="SARABEL Informatika Banner" width="100%">
 </p>
 
 <h1 align="center">Proxmox VE Enterprise Guide</h1>
